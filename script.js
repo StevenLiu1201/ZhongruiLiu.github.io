@@ -1,2 +1,2 @@
 // just for practice how to use git & github
-console.log("version1");
+console.log("version2");
